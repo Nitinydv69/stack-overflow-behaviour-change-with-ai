@@ -1,0 +1,5 @@
+"Model","Test_AUC","Accuracy","Sensitivity","Specificity","Precision","F1_Score"
+"Logistic Regression",0.7338,0.7771,0.9463,0.427,0.7736,0.8513
+"Decision Tree (CART)",0.7046,0.7799,0.9421,0.4444,0.7782,0.8523
+"Random Forest",0.7269,0.7778,0.9373,0.4477,0.7783,0.8505
+""

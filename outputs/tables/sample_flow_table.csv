@@ -1,0 +1,7 @@
+"Stage","Respondents"
+"1. Raw survey observations",30903
+"2. Filtered contradictory AI / SO responses",30611
+"3. Valid SOChange and AISelect responses",15190
+"4. Complete cases (Primary Supervised Sample)",14085
+"5. Active AI users sample",11824
+"6. Unsupervised clustering sample (sampled for distance matrix)",3000
